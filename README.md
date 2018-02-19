@@ -3,7 +3,7 @@
 ### Links:
 * [HTML vs DOM, Example 1](https://blueshift.io/selectors2.html)
 * [HTML vs DOM, Example 2](https://blueshift.io/selectors2.html)
-* [rvest package] for parsing HTML
+* [rvest package](https://cran.r-project.org/web/packages/rvest/rvest.pdf) for parsing HTML
 
 ![California drought](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/save-california-drought.png)
 
