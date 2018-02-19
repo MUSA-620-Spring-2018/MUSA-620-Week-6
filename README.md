@@ -26,4 +26,5 @@
 This is where I got the data for [this map](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/).
 
 ![property values USA](http://i0.wp.com/metrocosm.com/wp-content/uploads/2015/10/cartogram-property-values.gif)
+
 Total residential property value of each US county
