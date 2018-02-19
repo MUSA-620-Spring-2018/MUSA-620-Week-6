@@ -22,8 +22,8 @@
 
 ##### [The Economist: Property Values by US County](https://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-2)
 * [County-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
-* This is where I got the data for [this map](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/):
+* This is where I got the data for the map below:
 
-Total residential property value of each US county
+[Total residential property value of each US county](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/)
 
-![property values USA](http://i0.wp.com/metrocosm.com/wp-content/uploads/2015/10/cartogram-property-values.gif)
+![map of property values USA](http://i0.wp.com/metrocosm.com/wp-content/uploads/2015/10/cartogram-property-values.gif)
