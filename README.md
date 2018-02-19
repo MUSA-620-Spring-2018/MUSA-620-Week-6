@@ -11,9 +11,13 @@ Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-wi
 
 ## Web Inspector
 
-##### Elements tab
+### Elements tab
+
+##### Examples:
 * [Simple example](https://blueshift.io/selectors2.html)
 * [NY Times: copy text from the article body](https://www.nytimes.com/2016/08/23/upshot/50-years-of-electoral-college-maps-how-the-us-turned-red-and-blue.html)
+
+### Network tab
 
 ##### [FiveThirtyEight: Congressional Districts](https://projects.fivethirtyeight.com/redistricting-maps/)
 * [Congressional district map](https://projects.fivethirtyeight.com/redistricting-maps/US-current.topo.json)
