@@ -5,6 +5,10 @@
 * [HTML vs DOM, Example 2](https://blueshift.io/selectors2.html)
 * [rvest package] for parsing HTML
 
+![California drought](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/save-california-drought.png)
+
+Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-with-drought/)
+
 ### Web Inspector
 
 ##### Elements tab
