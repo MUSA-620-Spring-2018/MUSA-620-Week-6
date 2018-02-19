@@ -9,7 +9,7 @@
 
 Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-with-drought/)
 
-### Web Inspector
+## Web Inspector
 
 ##### Elements tab
 * [Simple example](https://blueshift.io/selectors2.html)
