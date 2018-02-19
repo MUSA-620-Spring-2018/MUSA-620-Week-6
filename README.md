@@ -3,7 +3,10 @@ Web scraping 1
 
 ### Web Inspector
 
-##### [Simple example](https://blueshift.io/selectors2.html)
+##### Elements tab
+* [Simple example](https://blueshift.io/selectors2.html)
+* [NY Times: copy text from the article body](https://www.nytimes.com/2016/08/23/upshot/50-years-of-electoral-college-maps-how-the-us-turned-red-and-blue.html)
+
 
 ##### [WSJ: California Drought](http://graphics.wsj.com/californias-long-challenge-with-drought/)
 * [CA outline](http://graphics.wsj.com/californias-long-challenge-with-drought/data/shared/california.topo.json)
