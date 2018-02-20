@@ -37,8 +37,8 @@ Use the network tab to find the data used in these webpages.
 * See if you can you can find the data to recreate their sunlight map yourself
 
 ##### [The Economist: Property Values by US County](https://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-2)
-* [County-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
-* Used as the data source for the map below:
+* Sometimes data will be hidden in .js files: [county-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
+* Used as the data source for the map below
 
 [Total residential property value of each US county](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/)
 
