@@ -13,11 +13,15 @@ Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-wi
 
 ### Elements tab
 
+Use the network tab to explore a webpage's DOM.
+
 ##### Examples:
 * [Simple example](https://blueshift.io/selectors2.html)
 * [NY Times: copy text from the article body](https://www.nytimes.com/2016/08/23/upshot/50-years-of-electoral-college-maps-how-the-us-turned-red-and-blue.html)
 
 ### Network tab
+
+Use the network tab to find the data used in these webpages.
 
 ##### [FiveThirtyEight: Congressional Districts](https://projects.fivethirtyeight.com/redistricting-maps/)
 * [Congressional district map](https://projects.fivethirtyeight.com/redistricting-maps/US-current.topo.json)
@@ -28,9 +32,12 @@ Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-wi
 * [Major cities](http://graphics.wsj.com/californias-long-challenge-with-drought/data/shared/major_cities.topo.json)
 * [Population affected](http://graphics.wsj.com/californias-long-challenge-with-drought/data/drought/population-affected.csv)
 
+##### [Washington Post: US Sunlight Map](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/)
+* See if you can you can find the data to recreate their sunlight map yourself
+
 ##### [The Economist: Property Values by US County](https://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-2)
 * [County-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
-* This is where I got the data for the map below:
+* Used as the data source for the map below:
 
 [Total residential property value of each US county](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/)
 
