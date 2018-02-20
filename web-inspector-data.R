@@ -89,3 +89,13 @@ ggplot() +
 
 
 
+
+# Washington Post: Where America’s sunniest and least-sunny places are
+#
+# https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/
+# See if you can find the data and recreate their sunlight map
+
+# Note: topojson files can have multiple layers
+#   Use ogrListLayers(URL) to view the layer names
+#   Use readOGR(URL,LAYER_NAME) to load a specific layer
+
