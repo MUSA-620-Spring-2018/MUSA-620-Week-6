@@ -34,7 +34,9 @@ Use the network tab to find the data used in these webpages.
 * [Population affected](http://graphics.wsj.com/californias-long-challenge-with-drought/data/drought/population-affected.csv)
 
 ##### [Washington Post: US Sunlight Map](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/)
-* See if you can you can find the data to recreate their sunlight map yourself
+* See if you can you can find the data to recreate their sunlight map yourself. *the steps for doing this have now been added to [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
+
+![Map of average daily sunlight by county](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/daily-sunlight-by-county.png)
 
 ##### [The Economist: Property Values by US County](https://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-2)
 * Sometimes data will be hidden in .js files: [county-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
