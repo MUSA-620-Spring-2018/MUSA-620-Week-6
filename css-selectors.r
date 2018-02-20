@@ -26,3 +26,20 @@ cssExample
 #****SELECT BY XPATH****
 xpathExample <- html_nodes(website, xpath = "//*[@id='fruits']/li[1]") %>% html_text()
 xpathExample
+
+
+
+#****Scrape a HTML table into a data frame****
+#https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population
+
+wikipediaPage <- read_html("https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population")
+
+# find the CSS selector of the table using the Web Inspector Network tab
+# "#mw-content-text > div > table:nth-child(12)"
+wikiTableElement <- html_nodes(wikipediaPage,"#mw-content-text > div > table:nth-child(12)")
+
+wikiTable <- html_table(wikiTableElement, fill = TRUE) %>%
+  data.frame()
+
+View(wikiTable)
+
