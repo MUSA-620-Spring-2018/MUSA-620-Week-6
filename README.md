@@ -17,7 +17,8 @@ Use the network tab to explore a webpage's DOM.
 
 ##### Examples:
 * [Simple example](https://blueshift.io/selectors2.html)
-* [NY Times: copy text from the article body](https://www.nytimes.com/2016/08/23/upshot/50-years-of-electoral-college-maps-how-the-us-turned-red-and-blue.html)
+* Grab text from sites that have copying disabled: [NY Times](https://www.nytimes.com/2016/08/23/upshot/50-years-of-electoral-college-maps-how-the-us-turned-red-and-blue.html)
+* Find and download a hidden video file: [Imgur](https://i.imgur.com/9M4Rsf0.gifv)
 
 ### Network tab
 
