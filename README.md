@@ -5,15 +5,11 @@
 * [HTML vs DOM, Example 2](https://blueshift.io/selectors2.html)
 * [rvest package](https://cran.r-project.org/web/packages/rvest/rvest.pdf) for parsing HTML
 
-![California drought](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/save-california-drought.png)
-
-Data: [Wall Steet Journal](http://graphics.wsj.com/californias-long-challenge-with-drought/)
-
-## Web Inspector
+## Getting to Know Your Browser's Web Inspector
 
 ### Elements tab
 
-Use the network tab to explore a webpage's DOM.
+Use the elements tab to explore a webpage's DOM.
 
 ##### Examples:
 * [Simple example](https://blueshift.io/selectors2.html)
@@ -33,10 +29,16 @@ Use the network tab to find the data used in these webpages.
 * [Major cities](http://graphics.wsj.com/californias-long-challenge-with-drought/data/shared/major_cities.topo.json)
 * [Population affected](http://graphics.wsj.com/californias-long-challenge-with-drought/data/drought/population-affected.csv)
 
+![California drought map](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/save-california-drought.png)
+
+*Data: [Wall Street Journal](http://graphics.wsj.com/californias-long-challenge-with-drought/) / code: [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
+
 ##### [Washington Post: US Sunlight Map](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/)
 * See if you can you can find the data to recreate their sunlight map yourself. *The steps for doing this have now been added to [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
 
 ![Map of average daily sunlight by county](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/daily-sunlight-by-county.png)
+
+*Data: [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/) / code: [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
 
 ##### [The Economist: Property Values by US County](https://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-2)
 * Sometimes data will be hidden in .js files: [county-level real estate values](https://infographics.economist.com/2015/ASBTest/Land/js/countyData.js?__sbCache=0.26521743179319657)
