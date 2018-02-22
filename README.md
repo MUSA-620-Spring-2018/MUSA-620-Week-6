@@ -1,5 +1,7 @@
 # MUSA-620-Week-6: Web Scraping Part 1
 
+
+
 ### Links:
 * [HTML vs DOM, Example 1](https://blueshift.io/selectors2.html)
 * [HTML vs DOM, Example 2](https://blueshift.io/selectors2.html)
@@ -29,14 +31,14 @@ Use the network tab to find the data used in these webpages.
 * [Major cities](http://graphics.wsj.com/californias-long-challenge-with-drought/data/shared/major_cities.topo.json)
 * [Population affected](http://graphics.wsj.com/californias-long-challenge-with-drought/data/drought/population-affected.csv)
 
-![California drought map](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/save-california-drought.png)
+![California drought map](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/california-drought-map.png)
 
 *Data: [Wall Street Journal](http://graphics.wsj.com/californias-long-challenge-with-drought/) / code: [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
 
 ##### [Washington Post: US Sunlight Map](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/)
 * See if you can you can find the data to recreate their sunlight map yourself. *The steps for doing this have now been added to [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
 
-![Map of average daily sunlight by county](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/daily-sunlight-by-county.png)
+![Map of average daily sunlight by county](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/daily-sunlight-by-county-2.png)
 
 *Data: [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2015/07/13/map-where-americas-sunniest-and-least-sunny-places-are/) / code: [web-inspector-data.r](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6/blob/master/web-inspector-data.R)*
 
@@ -47,3 +49,5 @@ Use the network tab to find the data used in these webpages.
 [Total residential property value of each US county](http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/)
 
 ![map of property values USA](http://i0.wp.com/metrocosm.com/wp-content/uploads/2015/10/cartogram-property-values.gif)
+
+
